@@ -1,4 +1,4 @@
-# 🧱 Active Directory Lab (VirtualBox) — Step-by-Step Guide
+# 🧱 Active Directory Lab (VirtualBox) — Step-by-Step
 
 Build your own mini Windows domain at home using **Oracle VirtualBox**, **Windows Server 2019**, and **Windows 10**.
 
